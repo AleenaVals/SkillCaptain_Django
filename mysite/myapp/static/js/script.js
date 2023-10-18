@@ -1,1 +1,1 @@
-// Javascript functionalities will go here
+// JS functionalities goes here
